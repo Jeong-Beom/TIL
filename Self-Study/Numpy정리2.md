@@ -34,3 +34,5 @@ test_array.sum(dtype = np.float) # 결과값 : 55.0
 # mean : 평균, std : 표준편차 / Mathematical function은 PDF파일 참조
 ``````
 
+
+
