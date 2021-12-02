@@ -5,6 +5,8 @@ guideSearchApi/
 password.txt
 dataA/
 data/
+Data/
+DATA/
 mysql.json
 __pycache__/
 sample(sales_book).csv
